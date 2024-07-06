@@ -1,5 +1,5 @@
 # simple-flip
-Simple FLIP animation with ![animate() web API](https://developer.mozilla.org/en-US/docs/Web/API/Element/animate), inspired by ![GSAP FLIP animiation](https://gsap.com/docs/v3/Plugins/Flip/)
+Simple FLIP animation with [animate() web API](https://developer.mozilla.org/en-US/docs/Web/API/Element/animate), inspired by [GSAP FLIP animiation](https://gsap.com/docs/v3/Plugins/Flip/)
 
 ## Demo
 
